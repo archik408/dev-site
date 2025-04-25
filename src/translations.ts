@@ -2,13 +2,13 @@ export const translations = {
     en: {
         role: 'Frontend Engineer & UI/UX Enthusiast',
         about: 'About Me',
-        aboutText: 'Passionate programmer with over a decade of hands-on experience in full-stack web development. Specializing in JavaScript, React, Node.js, and Progressive Web Apps (PWA), I have successfully delivered 20+ projects across diverse business and tech domains, including E-Documents, Retail, IoT, Blockchain, Gen AI integration, All-in-One Platforms, and Business Consulting.<br/><br/> My expertise spans Frontend Architecture, Backend Development, Web Accessibility, UX/UI Design, and Human-Computer Interaction (HCI).',
+        aboutText: 'Passionate second generation programmer with over a decade of hands-on experience in full-stack web development. Specializing in JavaScript, React, Node.js, and Progressive Web Apps (PWA) with background in Java, Eclipse RCP/RAP/SWT and Borland VCL, I have successfully delivered 20+ projects across diverse business and tech domains, including E-Documents, Retail, IoT, Blockchain, Gen AI integration, All-in-One Platforms, and Business Consulting.<br/><br/> My expertise spans Frontend Architecture, Backend Development, Web Accessibility, UX/UI Design, and Human-Computer Interaction (HCI).',
         cleanCode: 'Clean Code',
         cleanCodeDesc: 'Writing maintainable and scalable code based on SOLID, KISS, YAGNI and DRY principles',
         components: 'Components',
         componentsDesc: 'Building reusable, accessible, responsive and user-friendly UI components',
         bestPractices: 'Best Practices',
-        bestPracticesDesc: 'Following industry standards with modern frameworks and tools',
+        bestPracticesDesc: 'Following industry standards with modern frontend frameworks and tools',
         learning: 'Learning',
         learningDesc: 'Continuous improvement and learning through practice and MOOC platforms',
         skills: 'Skills',
@@ -22,7 +22,8 @@ export const translations = {
                     'Led the development of a hybrid mobile application using React.js, PWA, and Fugu API for one of the largest grocery retail groups globally, operating 21,000+ convenience stores with MAU ~22 million',
                     'Integrated advanced web technologies to deliver a seamless cross-platform experience for both iOS and Android, ensuring high performance and scalability',
                     'Participated in AI/LLM integration for moderation and fraud detection',
-                    'Collaborated closely with cross-functional teams to align the application with business goals, resulting in improved user engagement and operational efficiency'
+                    'Collaborated closely with cross-functional teams to align the application with business goals, resulting in improved user engagement and operational efficiency',
+                    'Developed side  projects like admin/moderator application based on React-Admin with Bun server, and a bunch of landings based on Next.js',
                 ]
             },
             {
@@ -89,7 +90,7 @@ export const translations = {
     ru: {
         role: 'Frontend-разработчик и UI/UX энтузиаст',
         about: 'Обо мне',
-        aboutText: 'Увлеченный программист с более чем 10-летним практическим опытом в области full-stack веб-разработки. Специализируюсь на JavaScript, React, Node.js и Progressive Web Apps (PWA). Успешно реализовал более 20 проектов в различных бизнес- и технологических доменах, включая Электронный документооборот, Розничную торговлю, IoT (Интернет вещей), Blockchain, интеграцию Генеративного ИИ, Универсальные платформы и Бизнес-консалтинг.<br/><br/> Моя экспертиза охватывает архитектуру фронтенда, бэкенд-разработку, веб-доступность, UX/UI-дизайн и другие аспекты взаимодействия человека с компьютером (HCI).',
+        aboutText: 'Увлеченный программист во втором поколении с более чем 10-летним практическим опытом в области full-stack веб-разработки. Специализируюсь на JavaScript, React, Node.js и Progressive Web Apps (PWA). Успешно реализовал более 20 проектов в различных бизнес- и технологических доменах, включая Электронный документооборот, Розничную торговлю, IoT (Интернет вещей), Blockchain, интеграцию Генеративного ИИ, Универсальные платформы и Бизнес-консалтинг.<br/><br/> Моя экспертиза охватывает архитектуру фронтенда, бэкенд-разработку, веб-доступность, UX/UI-дизайн и другие аспекты взаимодействия человека с компьютером (HCI).',
         cleanCode: 'Чистый код',
         cleanCodeDesc: 'Написание поддерживаемого и масштабируемого кода на основе принципов SOLID, KISS, YAGNI и DRY',
         components: 'Компоненты',
@@ -109,7 +110,8 @@ export const translations = {
                     'Руководил разработкой гибридного мобильного приложения с использованием React.js, PWA и Fugu API для одной из крупнейших розничных сетей продуктовых магазинов в мире, включающей более 21 000 магазинов и с ежемесячной аудиторией около 22 миллионов пользователей',
                     'Интегрировал передовые веб-технологии для создания бесшовного кросс-платформенного опыта на iOS и Android, обеспечивая высокую производительность и масштабируемость',
                     'Участвовал в интеграции AI/LLM для модерации и обнаружения мошенничества',
-                    'Тесно сотрудничал с кросс-функциональными командами для согласования разработки приложения с бизнес-целями, что привело к повышению вовлеченности пользователей и операционной эффективности'
+                    'Тесно сотрудничал с кросс-функциональными командами для согласования разработки приложения с бизнес-целями, что привело к повышению вовлеченности пользователей и операционной эффективности',
+                    'Разрабатывал сторонние проекты, такие как приложение администратора/модератора на основе React-Admin с сервером Bun и ряд лендингов на основе Next.js'
                 ]
             },
             {
